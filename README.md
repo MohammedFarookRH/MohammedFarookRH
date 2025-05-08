@@ -61,7 +61,8 @@ Built with HTML, CSS, JavaScript, Local Storage, and responsive UI.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohammedFarookRH&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MohammedFarookRH&theme=tokyonight" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=MohammedFarookRH&theme=tokyonight" width="49%" />
+
 
 </p>
 
