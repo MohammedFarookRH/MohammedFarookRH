@@ -82,7 +82,7 @@ Built with HTML, CSS, JavaScript, Local Storage, and responsive UI.
   <a href="https://www.linkedin.com/in/mohammedfarookr" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
-  <a href="mailto:rhmohammedfarook786@gmail.com" target="_blank">
+  <a href="mailto:rhmohammedfarook@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" height="40" alt="Gmail" />
   </a>
 </p>
