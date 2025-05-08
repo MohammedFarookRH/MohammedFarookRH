@@ -20,7 +20,7 @@
 - ⚙️ Certified in MERN Stack Development  
 - 🌱 Currently diving deeper into TypeScript & Backend APIs  
 - 📍 Erode, Tamil Nadu, India  
-- 📫 Reach me at: `rhmohammedfarook786@gmail.com`  
+- 📫 Reach me at: `rhmohammedfarook@gmail.com`  
 - 📱 Phone: `+91 8838919004`  
 - 💬 Languages: English, Tamil, Urdu, Hindi
 
