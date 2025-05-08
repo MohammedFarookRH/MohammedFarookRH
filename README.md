@@ -39,6 +39,7 @@ Built with HTML, CSS, JavaScript, Local Storage, and responsive UI.
 ---
 
 ## 🧠 Tech Stack & Skills  
+## 🧠 Tech Stack & Skills  
 
 ### 💻 Programming Languages  
 <div align="center">
@@ -72,6 +73,7 @@ Built with HTML, CSS, JavaScript, Local Storage, and responsive UI.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" style="margin: 25px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" style="margin: 25px;" />
 </div>
+
 ---
 
 ## 📊 GitHub Stats
