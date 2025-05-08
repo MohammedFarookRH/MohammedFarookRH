@@ -71,6 +71,10 @@ Built with HTML, CSS, JavaScript, Local Storage, and responsive UI.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedFarookRH&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="250" alt="React Logo" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
